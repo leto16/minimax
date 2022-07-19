@@ -1,0 +1,25 @@
+MINIMAX (Max time)
+
+{:available_cells=>9, :time=>0.123655}
+{:available_cells=>7, :time=>0.003341}
+{:available_cells=>5, :time=>0.000219}
+{:available_cells=>3, :time=>3.9e-05}
+{:available_cells=>1, :time=>8.0e-06}
+
+{:available_cells=>8, :time=>0.016907}
+{:available_cells=>6, :time=>0.001507}
+{:available_cells=>4, :time=>8.0e-05}
+{:available_cells=>2, :time=>1.6e-05}
+
+MINIMAX WITH ALPHA BETA (Max time)
+
+{:available_cells=>9, :time=>0.026078}
+{:available_cells=>7, :time=>0.002661}
+{:available_cells=>5, :time=>0.000132}
+{:available_cells=>3, :time=>5.2e-05}
+{:available_cells=>1, :time=>1.0e-05}
+
+{:available_cells=>8, :time=>0.006651}
+{:available_cells=>6, :time=>0.00046}
+{:available_cells=>4, :time=>8.5e-05}
+{:available_cells=>2, :time=>2.7e-05}
